@@ -1,0 +1,407 @@
+/* Main Components of the Website */
+body {
+    background-color: #212121;
+	font-family: "Arial", sans-serif;
+	width: 100% ;
+	height: 100%;
+}
+
+html{
+	width: 100%;
+	height: 100%;
+}
+h1{
+	font-family: "Arial", !important;
+	font-weight: 500;
+	color: #8ae234;
+}
+
+h2{
+	font-family: "Arial", !important;
+	font-weight: 400;
+	color: #8ae234 ;
+}
+
+h3 {
+	font-family: "Arial", !important;
+	font-weight: 300;
+	color: #8ae234 ;
+}
+
+h4{
+	font-family:"Arial", !important ;
+	color: #8ae234;
+}
+
+h5{
+	font-family:"Arial", !important ;
+	font-weight: #8ae234;
+	color: #8ae234 ;
+}
+
+h6{
+	font-family: "Arial", !important ;
+	color: black;
+}
+
+p {
+	font-family: "Courier", sans-serif;
+	color: #ffffff;
+ }
+
+a{ color:#8ae234 ; }
+
+a:hover { color:#729ccd; }
+
+socialMediaLinks{
+	display: block;
+	padding-left: 0px ;
+}
+
+#socialMediaLinks li{
+	display:inline ;
+	margin:10px ;
+}
+
+
+#navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	/*border: 1px solid #e7e7e7;
+	background-color: #f3f3f3;*/
+	}
+
+	li { float: left; }
+
+	li a {
+	display: block;
+	color: #729ccd;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	}
+
+	li a:hover:not(.active) {
+	background-color: #ddd;
+	}
+
+	li a.active {
+	color: white;
+	background-color: #4CAF50;
+}
+
+.flexcontainer {
+	display: flex;
+	align-items: center;
+}
+@media (max-width: 320px) {
+	.flexcontainer {
+	  display: block;
+	}
+}
+
+#wikinav {
+	float: right;
+	list-style-type: none;
+	color: #729ccd;
+	width: 30%;
+	height: 600px;
+}
+
+#wrapper {
+	max-width: 1500px;
+	margin: 0 auto;
+}
+
+#about_us {
+	display: block;
+	padding: 5% 5%;
+	color: blue ;
+	background-color: light-blue;
+}
+
+#alumni {
+	display: block ;
+	padding: 5% 5%;
+	color: blue ;
+	background-color: light-blue;
+}
+
+#featuredAlumi{
+	padding: 5% 10%;
+}
+#featuredAlumi .alumiPicture {
+	height: auto;
+	width: 100% ;
+}
+
+#contact {
+	display: block;
+	padding: 5% 5% ;
+	color: #e84c3d;
+	background-color:#212121;
+}
+
+#contact .form-control {
+	font-family: "Arial", sans-serif;
+}
+#contact .label {
+	font-family: "Arial", sans-serif;
+}
+#contact .btn-primary {
+	background-color: #e84c3d;
+	border-color:#e84c3d ;
+	color:#fff ;
+}
+#contact .btn-primary:hover {
+	background-color:#e84c3d ;
+	color: #f5f3ee;
+}
+#contact .contact-form{
+	padding-top: 5% ;
+}
+@media (max-width: 749px) {
+	#contact {
+		padding: 10%;
+	}
+}
+
+#events {
+	margin-top: 30px;
+}
+	#events iframe{
+		width: 100%;
+	}
+}
+#helpme{
+	margin-top: 50px;
+}
+.member-map{
+		height: 500px;
+		width: 100%;
+		padding: 5%; }
+.member-links {
+		padding-top: 2%;
+		list-style-type: none;
+		text-align: center; }
+.member-links > li {
+		display: list-item; }
+.member-button {
+		font-size:large ; }
+.btn {
+		font-weight: bold; }
+.form-inline{
+		margin-top: 5%;
+		margin-bottom: 5% ;
+		text-align: center;
+		padding: 5%;
+}
+#home {
+	padding: 5% 0 5% 0 ;
+	background: url("../img/lcs/officers.jpg") no repeat center center:
+}
+#home .home-header-container {
+		width: 100%;
+	 	padding: 2%;
+	 	text-align: center;
+}
+#home .home-header-container .home-header {
+		font-size: 10em ;
+		color: white;
+}
+
+#home .home-header-container .header-subheader {
+		margin: 5px;
+		color: white;
+}
+
+@media only screen and (max-width: 768px ){
+	#home {
+		padding: 15% 0 5% 0 ;
+		text-align: center;
+	}
+	#home .home-image-container {
+		font-size: 4em ;
+		width: 100% ;
+	}
+	#home .home-header-container{
+		width: 100%;
+	}
+	#home .home-header-container .home-header{
+		font-size: 7em;
+	}
+	#home .home-header-container .home-subheader{
+		font-size: 2em ;
+		margin: 5px ;
+		color: white;
+	}
+}
+
+.member-subheaders{
+	text-align: center;
+	margin-bottom: 10%;
+	margin-top: 3% ;
+}
+
+.memberImage{
+	margin-bottom: 2%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	position: relative;
+	text-align: center;
+	vertical-align: center;
+	min-height: 10vh !important;
+
+}
+
+.memberImage p{
+	font-weight: 900 ;
+	color: white;
+	text-transform: uppercase;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate( -50%, -50%);
+}
+
+.quickLinks{
+	background-repeat: no-repeat ;
+	background-size:cover ;
+	background-position: 50% 50% ;
+	position: relative;
+	text-align: center;
+	vertical-align: center;
+	min-height: 5vh !important;
+}
+.quickLinks p{
+	font-weight: 700;
+	color: black;
+	text-transform: uppercase;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate( -50%, -50%);
+}
+
+
+#officers {
+	padding: 5% 5%;
+	background-color: #f5f3ee;
+}
+#officers h1{
+		color: #f5f3ee;
+		margin-bottom: 5%;
+}
+@media (max-width: 750px){
+		#officers{	padding: 10% 5%; }
+}
+ .officerPicture{
+	 	width: 100%;
+	 	height: auto;
+}
+.officer-box{
+		border: 0;
+		cursor: pointer;
+}
+
+#resources {
+	display: block;
+	padding: 5% 5% ;
+}
+.resource-header{
+		padding-bottom: 5%;
+}
+
+.panel {
+		border: none;
+}
+.panel .panel-heading{
+		border: none;
+		background-color: #bbbb;
+		border-color: #bbbb;
+}
+.iframeOutside {
+		text-align: center;
+}
+
+#sponsors{
+	display: block;
+	padding: 5% 5%;
+	color: #e84c3d ;
+}
+#sponsors .list{
+		padding: 0;
+		list-style-type: none;
+		display: flex ;
+		flex-wrap: wrap;
+}
+#sponsors .list-item{
+		padding: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 1em;
+		width: 100% ;
+		margin-top: 5% ;
+}
+#sponsors .list-item-link{
+		position:  relative;
+}
+#sponsors .list-item-image{
+		top: 50%;
+		width: auto;
+		max-width: 100%;
+		max-height: 200px;
+}
+
+@media all and (min-width: 40em) {
+	#sponsors .list-item{
+			width: 50%;
+	}
+}
+
+@media all and (max-width: 60em) {
+		#sponsors .list-item{
+			width: 20%;
+			padding: 2%;
+		}
+}
+	@media all and (max-width:40em ) {
+		#sponsors .list-item{
+			width: 50%;
+		}
+	}
+
+footer {
+	position: absolute;
+	left: 0;
+	bottom: auto;
+	width: 100%;
+	background-color:#729ccd;
+	color: white;
+	text-align: center;
+}
+
+.left{
+text-align:left;
+float:left;
+}
+.right{
+float:right;
+text-align:right;
+}
+.centered{
+text-align:center;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white ;
+}
