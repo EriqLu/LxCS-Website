@@ -1,0 +1,221 @@
+{
+    "admin": [
+        {
+            "position": "President",
+            "firstname": "Isaiah",
+            "lastname": "Lopez",
+            "email": " ",
+            "netid": " ",
+            "year": "Junior",
+            "major": "Statistics + Math",
+            "interests": [
+                "Web Development",
+                "App Development"
+            ],
+            "experience": [
+                "Not yet",
+                " ",
+                " ",
+                " "
+            ],
+            "hobbies": [
+                "Church",
+                "Community Service / Volunteer",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "advice": "Be prepare for anything"
+        },
+        {
+            "position": "Vice President",
+            "firstname": "Eddie",
+            "lastname": "Villa",
+            "email": " ",
+            "netid": " ",
+            "year": "Senior - 5th Year",
+            "major": "Computer Engineering",
+            "interests": [
+                "Computer Programming",
+                " "
+            ],
+            "experience": [
+                "Intern at State Farms",
+                "Inter at "
+            ],
+            "hobbies": [
+                "Soccer",
+                "Excercise"
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " "
+            ],
+            "advice": "Join Latinx in Computer Science!"
+        },
+        {
+            "position": "Secretary",
+            "firstname": "Jose",
+            "lastname": "Bucio",
+            "email": " ",
+            "netid": " ",
+            "year": "Senior",
+            "major": "Computer Science + Math",
+            "interests": [
+                "Artificial Intelligence",
+                "Security",
+                "Networks"
+            ],
+            "experience": [
+                "Undergraduate Research",
+                "Undergraduate Research Assistant",
+                "Project Manager",
+                " ",
+                " "
+            ],
+            "hobbies": [
+                "drawing",
+                "exercise",
+                "travel",
+                "eat + sleep",
+                " "
+            ],
+            "fact": " ",
+            "place": "San Francisco + Silicon Valley",
+            "ask": [
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " ",
+                " "
+            ],
+            "advice": "Never stop learning, it is OK to ask for help"
+        },
+        {
+            "position": "Tresurer",
+            "firstname": "Isaiah Lopez #2",
+            "lastname": " ",
+            "email": " ",
+            "netid": " ",
+            "year": " ",
+            "major": " ",
+            "interests": [
+                " ",
+                " "
+            ],
+            "experience": [
+                " ",
+                " "
+            ],
+            "hobbies": [
+                " ",
+                " ",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " "
+            ],
+            "advice": " "
+        },
+        {
+            "position": "Outreach Chair",
+            "firstname": " ",
+            "lastname": " ",
+            "email": " ",
+            "netid": " ",
+            "year": " ",
+            "major": " ",
+            "interests": [
+                " ",
+                " "
+            ],
+            "experience": [
+                " ",
+                " "
+            ],
+            "hobbies": [
+                " ",
+                " ",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " "
+            ],
+            "advice": " "
+            },
+        {
+            "position": "Vice President #2 + Tech Chair",
+            "firstname": "Alexander",
+            "lastname": "Magana",
+            "email": " ",
+            "netid": " ",
+            "year": "Sophomore",
+            "major": "Plan to transfer Computer Engineering",
+            "interests": [
+                " ",
+                " "
+            ],
+            "experience": [
+                " ",
+                " "
+            ],
+            "hobbies": [
+                " ",
+                " ",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " "
+            ],
+            "advice": " "
+        },
+        
+        {
+            "position": "Graduate Ambassador",
+            "firstname": "Simon",
+            "lastname": "Garza",
+            "email": " ",
+            "netid": " ",
+            "year": "PhD Canidate",
+            "major": "Computer Science",
+            "interests": [
+                "Parallel Programming",
+                " "
+            ],
+            "experience": [
+                " ",
+                " "
+            ],
+            "hobbies": [
+                " ",
+                " ",
+                " "
+            ],
+            "fact": " ",
+            "place": " ",
+            "ask": [
+                " ",
+                " "
+            ],
+            "advice": " "
+        }
+   ]
+}
