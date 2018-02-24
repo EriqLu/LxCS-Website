@@ -1,0 +1,15 @@
+/* Main Components */
+@import "var";
+@import "main-components";
+@import "navbar";
+
+/* Individual Divs */
+@import "home";
+@import "resources";
+@import "members";
+@import "sponsors";
+@import "officers";
+@import "outreach";
+@import "alumni";
+@import "contact";
+@import "footer";
