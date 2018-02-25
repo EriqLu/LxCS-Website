@@ -10,7 +10,7 @@ During the year, members involved through projects, events, and meetings to buil
 
 This website is a project that is part of the student organization Latinx in Computer Science @ UIUC. 
 
-Owner: Alexander Magana (@amagana8) & Jose Bucio (@jlbucio4)
+Owner: Latinx in Computer Science Admins in GitHub
 
 ### Our Progress of the Website
 So far, we are putting all of the pieces together and make adjustments later in the semester. We have a new member is helping us working on the website that helps us keep our progress a lot quicker. We will be ready to release our website by the beginning of spring semester  2018 (January 2018). 
