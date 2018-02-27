@@ -13,7 +13,7 @@ This website is a project that is part of the student organization Latinx in Com
 Owner: Latinx in Computer Science Admins in GitHub
 
 ### Our Progress of the Website
-So far, we are putting all of the pieces together and make adjustments later in the semester. We have a new member is helping us working on the website that helps us keep our progress a lot quicker. We will be ready to release our website by the beginning of spring semester  2018 (January 2018). 
+So far, we are putting all of the pieces together and make adjustments later in the semester. We have a new member is helping us working on the website that helps us keep our progress a lot quicker. We will be ready to release our website by the beginning of spring semester 2018.  
 
 ### What's next for LxCS???
 After our website, we are developing an application, robotics, and a product that involves using a 3-D Printing to be present to new members for next year and for Engineering Open House coming this March 2018. Adding to that, we will be part of HackIllinois to spread the word, recieve sponsorships, and present our progress as a club. Stay Tune. 
